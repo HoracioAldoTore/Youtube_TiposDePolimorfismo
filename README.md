@@ -12,7 +12,7 @@ Código utilizado para el video publicado en youtube, que expone los 4 tipos de 
 
 ## Enlaces útiles:
 
-[Video publicado en youtube que explica Los 4 tipos de polimorfismo](https://www.youtube.com/watch?v=dPLOs9jHioM)
+[Video publicado en youtube que explica Los 4 tipos de polimorfismo](https://youtu.be/dPLOs9jHioM)
 
 [Repositorio al código fuente C# utilizado en el video](https://github.com/HoracioAldoTore/Youtube_TiposDePolimorfismo)
 
