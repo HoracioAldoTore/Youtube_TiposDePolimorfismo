@@ -17,3 +17,5 @@ Código utilizado para el video publicado en youtube, que expone los 4 tipos de 
 [Repositorio al código fuente C# utilizado en el video](https://github.com/HoracioAldoTore/Youtube_TiposDePolimorfismo)
 
 [POLIMORFISMO La CLAVE de la POO en Java](https://www.youtube.com/watch?v=hcL0-LFYpIc&t=5s)
+
+<img width="493" alt="Ajedres2" src="https://github.com/user-attachments/assets/137e23e3-19d7-4bb6-bd14-eba24768d65d" />
